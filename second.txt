@@ -1,3 +1,3 @@
 This is a second file
 
-I am changing the second file
+I am changing the second file and that is to see the differences between what is in repository and what is in working directory
