@@ -1,0 +1,31 @@
+#we can use basic regular expressions
+# * ? [aeiou] [0-9]
+
+#negate expressions with !
+
+#*.php implies ignore .php files
+
+#!index.php implies track index.php
+
+#ignore all files in the directory
+#dir1/dir2/
+
+commitLog
+
+*.txt
+
+.DS_Store
+
+*.zip
+
+*.gz
+
+log/*.log
+
+log/*.log.[0-9]
+
+assets/photoshop/
+
+assets/videos/
+
+!assets/videos/*.mp4
